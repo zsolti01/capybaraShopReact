@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Kirk",
+        "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGNZBvV5GUosC7eNfZ1vp9XlmSmKwW_0Qs1IAxXSJ1bw&s=10",
+        "description": "Egy capybara"
+    },
+    {
+        "id": 2,
+        "name": "Floyd",
+        "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTznsLwLJe1FOuD1HmNxohzGXrVXeNn54lPA7m7OjkCyg&s=10",
+        "description": "Egy másik capybara"
+    },
+    {
+        "id": 3,
+        "name": "Ye",
+        "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZjUf69rj-m--5hx2hbVzFEATxoaUoT3nwhi6CCzZvw&s=10",
+        "description": "Egy harmadik capybara"
+    }
+]
